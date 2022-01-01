@@ -21,8 +21,8 @@ https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u
 Or, https://git.io/JEHPX 
 
 Recommand http://epg.51zmt.top:8000/e.xml as the EPG file. per https://github.com/frainzy1477/Chinese-IPTV
-
-
+copied Lylehurst SKYD channel list and did a global substite of lower case for the upper case in the 
+tvg-name. example changing from tvg-name="CCTV1" to tvg-name="cctv1" so it will match the EPG
 ----------
 
 10/21/2020: added LZU.
