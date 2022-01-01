@@ -127,11 +127,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="localTVHD",SiTV欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="localTVHD",CHC动作电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="localTVHD",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="localTVHD",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="localTVHD",CHC高清电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="" group-title="localTVHD",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="localTVHD",信号测试1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
@@ -197,9 +197,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",IPTV3+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",IPTV5+
+#EXTINF:-1 tvg-id="" tvg-name="IPTV5+" tvg-logo="" group-title="CCTV",IPTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226342/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",IPTV6+
+#EXTINF:-1 tvg-id="" tvg-name="IPTV6+" tvg-logo="" group-title="CCTV",IPTV6+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",IPTV8+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
@@ -321,7 +321,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226348/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",栾坛春秋
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",生态环境
+#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="" group-title="LocalTV",生态环境
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",京视剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
