@@ -20,6 +20,9 @@ Or,
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u  
 Or, https://git.io/JEHPX 
 
+Recommand http://epg.51zmt.top:8000/e.xml as the EPG file. per https://github.com/frainzy1477/Chinese-IPTV
+
+
 ----------
 
 10/21/2020: added LZU.
